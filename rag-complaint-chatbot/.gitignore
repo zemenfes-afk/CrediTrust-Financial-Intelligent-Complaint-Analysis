@@ -1,0 +1,8 @@
+# Ignore large data
+data/
+vector_store/
+__pycache__/
+.venv/
+.idea/
+*.csv
+*.sqlite3
